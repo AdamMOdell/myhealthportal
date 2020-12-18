@@ -1,0 +1,7 @@
+DELETE FROM Pharmacies;
+ALTER TABLE Pharmacies AUTO_INCREMENT = 10000000;
+INSERT INTO Pharmacies (Email, Password, Name, Address) VALUES
+('jmorris@hotmail.com','5f4dcc3b5aa765d61d8327deb882cf99','Duane Reade','9796 Canal Drive'),
+('bester@att.net','5f4dcc3b5aa765d61d8327deb882cf99','Family Pharmacy','8056 Sunnyslope St.'),
+('gboss@me.com','5f4dcc3b5aa765d61d8327deb882cf99','Good Neighbor Pharmacy','42 Pennsylvania Street'),
+('claesjac@msn.com','5f4dcc3b5aa765d61d8327deb882cf99','Hartig Drug','Ellenwood, GA 30294');

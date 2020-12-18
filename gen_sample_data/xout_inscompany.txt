@@ -1,0 +1,7 @@
+DELETE FROM InsCompany;
+ALTER TABLE InsCompany AUTO_INCREMENT = 10000000;
+INSERT INTO InsCompany (Email, Password, Name, Address, Acronym) VALUES
+('gastown@mac.com','5f4dcc3b5aa765d61d8327deb882cf99','Highmark','9742 E. El Dorado Street','HI'),
+('debest@me.com','5f4dcc3b5aa765d61d8327deb882cf99','Horace Mann Educators Corporation','7196 Pineknoll Drive','HO'),
+('hling@sbcglobal.net','5f4dcc3b5aa765d61d8327deb882cf99','Humana','73 Longfellow Rd.','HU'),
+('yumpy@mac.com','5f4dcc3b5aa765d61d8327deb882cf99','Independence Blue Cross','6 Holly St.','IN');

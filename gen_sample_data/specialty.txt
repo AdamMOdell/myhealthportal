@@ -1,0 +1,61 @@
+Addiction psychiatrist
+Adolescent medicine specialist
+Allergist (immunologist)
+Anesthesiologist
+Cardiac electrophysiologist
+Cardiologist
+Cardiovascular surgeon
+Colon and rectal surgeon
+Critical care medicine specialist
+Dermatologist
+Developmental pediatrician
+Emergency medicine specialist
+Endocrinologist
+Family medicine physician
+Forensic pathologist
+Gastroenterologist
+Geriatric medicine specialist
+Gynecologist
+Gynecologic oncologist
+Hand surgeon
+Hematologist
+Hepatologist
+Hospitalist
+Hospice and palliative medicine specialist
+Hyperbaric physician
+Infectious disease specialist
+Internist
+Interventional cardiologist
+Medical examiner
+Medical geneticist
+Neonatologist
+Nephrologist
+Neurological surgeon
+Neurologist
+Nuclear medicine specialist
+Obstetrician
+Occupational medicine specialist
+Oncologist
+Ophthalmologist
+Oral surgeon (maxillofacial surgeon)
+Orthopedic surgeon
+Otolaryngologist (ear, nose, and throat specialist)
+Pain management specialist
+Pathologist
+Pediatrician
+Perinatologist
+Physiatrist
+Plastic surgeon
+Psychiatrist
+Pulmonologist
+Radiation oncologist
+Radiologist
+Reproductive endocrinologist
+Rheumatologist
+Sleep disorders specialist
+Spinal cord injury specialist
+Sports medicine specialist
+Surgeon
+Thoracic surgeon
+Urologist
+Vascular surgeon
